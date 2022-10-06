@@ -1,0 +1,48 @@
+body {
+    background-color: #faebd6;
+}
+
+h1 {
+    background: tomato;
+    text-align: left;
+    margin-top: 20px;
+}
+
+h2 {
+    background: goldenrod;
+    margin-block: 50px;
+    text-align: left;
+}
+
+p.paragraf1 {
+    background: orange;
+    margin-block: 50px;
+
+    text-align: left;
+}
+
+p.paragraf2 {
+    background: rgb(182, 129, 61);
+    margin-block: 50px;
+    text-align: left;
+}
+
+li#item1 {
+    color: royalblue;
+}
+
+li#item2 {
+    color: rgb(250, 217, 69);
+}
+
+li#item3 {
+    color: rgb(184, 30, 245);
+}
+
+li#item4 {
+    color: rgb(151, 224, 33);
+}
+
+li#item5 {
+    color: rgb(240, 21, 21);
+}
